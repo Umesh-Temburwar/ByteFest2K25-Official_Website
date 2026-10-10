@@ -4,6 +4,7 @@ Welcome to the official repository for **ByteFest 2K25**, a tech fest organized 
 This is a fully responsive static website containing all event details, rules, registration forms, and more.
 
 🌐 **Live Website:** [bytefest2k25.netlify.app](https://bytefest2k25.netlify.app)
+🌐 **Live Website:** [bytefest2k25.netlify.app](https://bytefest2k25.netlify.app)
 
 ---
 
